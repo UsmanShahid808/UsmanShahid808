@@ -31,7 +31,7 @@
 
 ### 🟣 About Me
 
-I'm a **Flutter developer** based in Islamabad, Pakistan, focused on building clean, performant, cross-platform mobile applications. I care about writing maintainable code with sensible architecture, and I enjoy wiring up real backends — Firebase, Firestore, and REST APIs — rather than just shipping UI.
+I'm a **Flutter developer** based in Islamabad, Pakistan, focused on building clean, performant, cross-platform mobile applications. I care about writing maintainable code with sensible architecture, and I enjoy wiring up real backends like Firebase, Firestore, and REST APIs, not just shipping UI.
 
 ```yaml
 Open To:
@@ -82,7 +82,7 @@ Open To:
 ### 🟣 Featured Projects
 
 <details>
-<summary><b>🧵 al_musarmon — Shop Management App</b></summary>
+<summary><b>🧵 al_musarmon: Shop Management App</b></summary>
 <br/>
 
 A shop management application built for a cloth/garment business, handling day-to-day retail operations.
@@ -98,7 +98,7 @@ Built to help a small business manage inventory, sales, and daily operations fro
 </details>
 
 <details>
-<summary><b>🎓 internee-lms-app — Learning Management App</b></summary>
+<summary><b>🎓 internee-lms-app: Learning Management App</b></summary>
 <br/>
 
 A Learning Management System (LMS) mobile app built for students.
@@ -185,7 +185,7 @@ Open To:
 
 <div align="center">
 
-*"Good code is written once and read a hundred times — write it for the reader, not just the compiler."*
+*"Good code is written once and read a hundred times. Write it for the reader, not just the compiler."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
