@@ -48,7 +48,7 @@ Open To:
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dart,python&theme=dark" />
 
 **Mobile & Frontend**
 <br/>
@@ -58,17 +58,22 @@ Open To:
 <br/>
 <img src="https://skillicons.dev/icons?i=firebase,postman&theme=dark" />
 
+**Tools & Version Control**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
 </div>
 
 <div align="center">
 
 | Category | Tools |
 |---|---|
-| **Language** | Dart |
+| **Languages** | Dart, Python |
 | **Framework** | Flutter |
 | **Backend / DB** | Firebase, Firestore |
 | **Networking** | REST APIs |
-| **Architecture** | State Management (Provider / Bloc / Riverpod – pick what you use) |
+| **Concepts** | OOP |
+| **Version Control** | Git, GitHub |
 
 </div>
 
