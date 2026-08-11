@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Usman%20Shahid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Usman%20Shahid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Enthusiast%20%7C%20Python%20Developer&descAlignY=55&descSize=20" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Cross-Platform+Mobile+%26+Web+Apps;HTML%2C+CSS+%26+JavaScript;Firebase+%2F+Firestore+%2F+REST+APIs;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Python+%26+Machine+Learning+Developer;Deep+Learning+%26+NLP+Enthusiast;scikit-learn%2C+PyTorch+%26+Hugging+Face;Exploring+LLMs%2C+RAG+%26+Agentic+AI;Turning+Data+into+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Location-Islamabad,_Pakistan-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Flutter_%7C_Dart-7C3AED?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Also_Exploring-HTML_%7C_CSS_%7C_JS-8B5CF6?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Python_%7C_ML%2FAI-7C3AED?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Exploring-NLP_%7C_LLMs_%7C_RAG-8B5CF6?style=flat-square&logo=huggingface&logoColor=white" />
 
 <br/><br/>
 
@@ -32,14 +32,14 @@
 
 ### 🟣 About Me
 
-I'm a **Flutter developer** based in Islamabad, Pakistan, focused on building clean, performant, cross-platform mobile applications. I care about writing maintainable code with sensible architecture, and I enjoy wiring up real backends — Firebase, Firestore, REST APIs — not just shipping UI. I'm also comfortable with core web fundamentals (HTML, CSS, JavaScript), which come in handy for Flutter Web and general front-end work.
+I'm an **AI/ML enthusiast and Python developer** based in Islamabad, Pakistan, building a solid foundation in machine learning, data science, and applied NLP. I care about understanding what's happening under the hood — not just calling `.fit()` — and I'm currently deepening my skills in deep learning and modern LLM/RAG workflows. Looking to bring that curiosity into an AI/ML internship or entry-level role.
 
 ```yaml
 Open To:
-  - Freelance Flutter projects
-  - Junior / Mid-level Mobile Developer roles
-  - Flutter Web / cross-platform projects
-  - Collaborating on open-source Flutter apps
+  - AI/ML internship opportunities
+  - Junior Data Science / ML roles
+  - Open-source ML & NLP collaboration
+  - Learning-focused freelance projects
 ```
 
 ---
@@ -50,23 +50,15 @@ Open To:
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=dart,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
-**Web Fundamentals**
+**ML & Deep Learning**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 
-**Mobile & Frontend**
+**Tools & Deployment**
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
-
-**Backend & Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=firebase,postman&theme=dark" />
-
-**Tools & Version Control**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
 
 </div>
 
@@ -74,12 +66,11 @@ Open To:
 
 | Category | Tools |
 |---|---|
-| **Languages** | Dart, Python |
-| **Web** | HTML5, CSS3, JavaScript |
-| **Framework** | Flutter |
-| **Backend / DB** | Firebase, Firestore |
-| **Networking** | REST APIs |
-| **Concepts** | OOP |
+| **Languages** | Python, SQL |
+| **ML & DL** | scikit-learn, PyTorch, TensorFlow, XGBoost |
+| **NLP / LLM** | Hugging Face Transformers, LangChain |
+| **Data** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Deployment** | Flask, FastAPI, Docker |
 | **Version Control** | Git, GitHub |
 
 </div>
@@ -88,37 +79,41 @@ Open To:
 
 ### 🟣 Featured Projects
 
+<sub>Fill these in with your real repos as you build them — the structure below is ready to go, just swap in your project name, link, and bullets.</sub>
+
 <details>
-<summary><b>🧵 al_musarmon — Shop Management App</b></summary>
+<summary><b>🔍 [Project Name] — e.g. NLP-based Resume/CV Matcher</b></summary>
 <br/>
 
 | | |
 |---|---|
-| **Stack** | Flutter, Dart |
-| **Type** | Business / Retail Management App |
-| **Repository** | [al_musarmon](https://github.com/UsmanShahid808/al_musarmon) |
+| **Stack** | Python, scikit-learn / Hugging Face |
+| **Type** | NLP / Text Classification |
+| **Repository** | [Add link] |
 
-- Built a cross-platform mobile app in Flutter to manage day-to-day operations for a cloth/garment retail business
-- Replaced manual, paper-based tracking with digital inventory and sales management
-- Designed a simple, staff-friendly UI so non-technical shop owners could use it without training
+- [What it does — e.g. scores resumes against a job description using embeddings]
+- [Key technique used — e.g. cosine similarity, sentence-transformers]
+- [Outcome / demo link if deployed]
 
 </details>
 
 <details>
-<summary><b>🎓 internee-lms-app — Learning Management App</b></summary>
+<summary><b>🤖 [Project Name] — e.g. Document Q&A Chatbot (RAG)</b></summary>
 <br/>
 
 | | |
 |---|---|
-| **Stack** | Flutter, Dart |
-| **Type** | Education / LMS App |
-| **Repository** | [internee-lms-app](https://github.com/UsmanShahid808/internee-lms-app) |
+| **Stack** | Python, LangChain, FAISS |
+| **Type** | Retrieval-Augmented Generation |
+| **Repository** | [Add link] |
 
-- Developed a mobile-first Learning Management System (LMS) app in Flutter for students
-- Focused on giving students a simple, on-the-go way to access courses and learning material
-- Built with clean navigation and a lightweight UI suited for everyday student use
+- [What it does — e.g. answers questions from uploaded PDFs]
+- [Key technique used — e.g. chunking, embeddings, vector search]
+- [Outcome / demo link if deployed]
 
 </details>
+
+> 💡 Good starter ideas: a classic ML prediction project (e.g. churn/price prediction), a text-classification model with transformers, or a small RAG chatbot — pick one, ship it end-to-end, and swap it in above.
 
 ---
 
@@ -165,17 +160,16 @@ Open To:
 
 ```yaml
 Learning:
-  - Advanced state management (Bloc / Riverpod)
-  - Clean architecture in Flutter
-  - Core web fundamentals (HTML, CSS, JavaScript)
+  - Deep learning fundamentals (PyTorch / TensorFlow)
+  - NLP & transformer architectures
+  - RAG pipelines & vector databases
 Building:
-  - Flutter apps with Firebase backends
+  - End-to-end ML projects (data -> model -> simple API)
 Exploring:
-  - Flutter Web & responsive cross-platform UI
-  - REST API integration patterns
-  - CI/CD for Flutter releases
+  - LLM-based applications (LangChain, Hugging Face)
+  - MLOps basics (model versioning, deployment)
 Open To:
-  - Freelance & full-time Flutter opportunities
+  - AI/ML internships & entry-level opportunities
 ```
 
 ---
