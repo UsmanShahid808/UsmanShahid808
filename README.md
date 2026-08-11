@@ -3,13 +3,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Usman%20Shahid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=20" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Cross-Platform+Mobile+Apps;Firebase+%2F+Firestore+%2F+REST+APIs;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Cross-Platform+Mobile+%26+Web+Apps;HTML%2C+CSS+%26+JavaScript;Firebase+%2F+Firestore+%2F+REST+APIs;Clean+Architecture+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Location-Islamabad,_Pakistan-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-Flutter_%7C_Dart-7C3AED?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Also_Exploring-HTML_%7C_CSS_%7C_JS-8B5CF6?style=flat-square&logo=html5&logoColor=white" />
 
 <br/><br/>
 
@@ -31,12 +32,13 @@
 
 ### 🟣 About Me
 
-I'm a **Flutter developer** based in Islamabad, Pakistan, focused on building clean, performant, cross-platform mobile applications. I care about writing maintainable code with sensible architecture, and I enjoy wiring up real backends like Firebase, Firestore, and REST APIs, not just shipping UI.
+I'm a **Flutter developer** based in Islamabad, Pakistan, focused on building clean, performant, cross-platform mobile applications. I care about writing maintainable code with sensible architecture, and I enjoy wiring up real backends — Firebase, Firestore, REST APIs — not just shipping UI. I'm also comfortable with core web fundamentals (HTML, CSS, JavaScript), which come in handy for Flutter Web and general front-end work.
 
 ```yaml
 Open To:
   - Freelance Flutter projects
   - Junior / Mid-level Mobile Developer roles
+  - Flutter Web / cross-platform projects
   - Collaborating on open-source Flutter apps
 ```
 
@@ -49,6 +51,10 @@ Open To:
 **Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=dart,python&theme=dark" />
+
+**Web Fundamentals**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
 **Mobile & Frontend**
 <br/>
@@ -69,6 +75,7 @@ Open To:
 | Category | Tools |
 |---|---|
 | **Languages** | Dart, Python |
+| **Web** | HTML5, CSS3, JavaScript |
 | **Framework** | Flutter |
 | **Backend / DB** | Firebase, Firestore |
 | **Networking** | REST APIs |
@@ -82,10 +89,8 @@ Open To:
 ### 🟣 Featured Projects
 
 <details>
-<summary><b>🧵 al_musarmon: Shop Management App</b></summary>
+<summary><b>🧵 al_musarmon — Shop Management App</b></summary>
 <br/>
-
-A shop management application built for a cloth/garment business, handling day-to-day retail operations.
 
 | | |
 |---|---|
@@ -93,15 +98,15 @@ A shop management application built for a cloth/garment business, handling day-t
 | **Type** | Business / Retail Management App |
 | **Repository** | [al_musarmon](https://github.com/UsmanShahid808/al_musarmon) |
 
-Built to help a small business manage inventory, sales, and daily operations from a single mobile app, replacing manual/paper-based tracking.
+- Built a cross-platform mobile app in Flutter to manage day-to-day operations for a cloth/garment retail business
+- Replaced manual, paper-based tracking with digital inventory and sales management
+- Designed a simple, staff-friendly UI so non-technical shop owners could use it without training
 
 </details>
 
 <details>
-<summary><b>🎓 internee-lms-app: Learning Management App</b></summary>
+<summary><b>🎓 internee-lms-app — Learning Management App</b></summary>
 <br/>
-
-A Learning Management System (LMS) mobile app built for students.
 
 | | |
 |---|---|
@@ -109,7 +114,9 @@ A Learning Management System (LMS) mobile app built for students.
 | **Type** | Education / LMS App |
 | **Repository** | [internee-lms-app](https://github.com/UsmanShahid808/internee-lms-app) |
 
-Designed to give students a mobile-first way to access courses and learning material on the go.
+- Developed a mobile-first Learning Management System (LMS) app in Flutter for students
+- Focused on giving students a simple, on-the-go way to access courses and learning material
+- Built with clean navigation and a lightweight UI suited for everyday student use
 
 </details>
 
@@ -160,9 +167,11 @@ Designed to give students a mobile-first way to access courses and learning mate
 Learning:
   - Advanced state management (Bloc / Riverpod)
   - Clean architecture in Flutter
+  - Core web fundamentals (HTML, CSS, JavaScript)
 Building:
   - Flutter apps with Firebase backends
 Exploring:
+  - Flutter Web & responsive cross-platform UI
   - REST API integration patterns
   - CI/CD for Flutter releases
 Open To:
