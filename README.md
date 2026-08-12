@@ -14,7 +14,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/usman-shahidofficial"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:puckpuck808@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:usmanshahidoffice@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/UsmanShahid808"><img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
