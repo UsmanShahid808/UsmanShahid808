@@ -49,10 +49,24 @@ Open To:
 **Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-**Data & ML Libraries**
+<br/><br/>
+
+**Data Handling & Visualization**
 <br/>
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-2C6E91?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/><br/>
+
+**Machine Learning**
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+<br/><br/>
 
 **Tools & Version Control**
 <br/>
