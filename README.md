@@ -31,7 +31,7 @@
 
 ### 🟣 About Me
 
-I'm an aspiring **AI/ML practitioner** based in Islamabad, Pakistan, focused on building a strong foundation in data analysis and machine learning. I enjoy working with real datasets — cleaning them, exploring patterns, and building models that turn raw data into useful predictions.
+I'm an aspiring **AI/ML practitioner** based in Islamabad, Pakistan, focused on building a strong foundation in data analysis and machine learning. I enjoy working with real datasets - cleaning them, exploring patterns, and building models that turn raw data into useful predictions.
 
 ```yaml
 Open To:
@@ -48,23 +48,25 @@ Open To:
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
 
 <br/><br/>
 
 **Data Handling & Visualization**
 <br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-2C6E91?style=for-the-badge&logo=python&logoColor=white" />
+<img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/numpy.svg" />
+&nbsp;&nbsp;
+<img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pandas-icon.svg" />
+&nbsp;&nbsp;
+<img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/matplotlib-icon.svg" />
+&nbsp;&nbsp;
+<img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/seaborn-icon.svg" />
 
 <br/><br/>
 
 **Machine Learning**
 <br/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
 
 <br/><br/>
 
@@ -156,7 +158,7 @@ Open To:
 
 <div align="center">
 
-*"A model doesn't understand the world — it approximates the questions you asked of the data."*
+*"A model doesn't understand the world - it approximates the questions you asked of the data."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
