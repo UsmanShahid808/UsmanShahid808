@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Usman%20Shahid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Usman%20Shahid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Enthusiast&descAlignY=55&descSize=20" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Cross-Platform+Mobile+Apps;Firebase+%2F+Firestore+%2F+REST+APIs;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Data+Analysis+%26+Visualization;Python+%2F+NumPy+%2F+Pandas+%2F+scikit-learn;Turning+Data+Into+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Location-Islamabad,_Pakistan-6D28D9?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Flutter_%7C_Dart-7C3AED?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-AI_%7C_ML-7C3AED?style=flat-square&logo=python&logoColor=white" />
 
 <br/><br/>
 
@@ -31,13 +31,13 @@
 
 ### 🟣 About Me
 
-I'm a **Flutter developer** based in Islamabad, Pakistan, focused on building clean, performant, cross-platform mobile applications. I care about writing maintainable code with sensible architecture, and I enjoy wiring up real backends like Firebase, Firestore, and REST APIs, not just shipping UI.
+I'm an aspiring **AI/ML practitioner** based in Islamabad, Pakistan, focused on building a strong foundation in data analysis and machine learning. I enjoy working with real datasets — cleaning them, exploring patterns, and building models that turn raw data into useful predictions.
 
 ```yaml
 Open To:
-  - Freelance Flutter projects
-  - Junior / Mid-level Mobile Developer roles
-  - Collaborating on open-source Flutter apps
+  - Freelance data analysis / ML projects
+  - Junior Data Science / ML roles
+  - Collaborating on open-source ML projects
 ```
 
 ---
@@ -48,15 +48,11 @@ Open To:
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=dart,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
-**Mobile & Frontend**
+**Data & ML Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
-
-**Backend & Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=firebase,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
 
 **Tools & Version Control**
 <br/>
@@ -68,50 +64,13 @@ Open To:
 
 | Category | Tools |
 |---|---|
-| **Languages** | Dart, Python |
-| **Framework** | Flutter |
-| **Backend / DB** | Firebase, Firestore |
-| **Networking** | REST APIs |
-| **Concepts** | OOP |
+| **Languages** | Python, SQL |
+| **Data Handling** | NumPy, Pandas |
+| **Visualization** | Matplotlib, Seaborn |
+| **Machine Learning** | scikit-learn |
 | **Version Control** | Git, GitHub |
 
 </div>
-
----
-
-### 🟣 Featured Projects
-
-<details>
-<summary><b>🧵 al_musarmon: Shop Management App</b></summary>
-<br/>
-
-A shop management application built for a cloth/garment business, handling day-to-day retail operations.
-
-| | |
-|---|---|
-| **Stack** | Flutter, Dart |
-| **Type** | Business / Retail Management App |
-| **Repository** | [al_musarmon](https://github.com/UsmanShahid808/al_musarmon) |
-
-Built to help a small business manage inventory, sales, and daily operations from a single mobile app, replacing manual/paper-based tracking.
-
-</details>
-
-<details>
-<summary><b>🎓 internee-lms-app: Learning Management App</b></summary>
-<br/>
-
-A Learning Management System (LMS) mobile app built for students.
-
-| | |
-|---|---|
-| **Stack** | Flutter, Dart |
-| **Type** | Education / LMS App |
-| **Repository** | [internee-lms-app](https://github.com/UsmanShahid808/internee-lms-app) |
-
-Designed to give students a mobile-first way to access courses and learning material on the go.
-
-</details>
 
 ---
 
@@ -158,15 +117,13 @@ Designed to give students a mobile-first way to access courses and learning mate
 
 ```yaml
 Learning:
-  - Advanced state management (Bloc / Riverpod)
-  - Clean architecture in Flutter
+  - Machine Learning fundamentals (Regression, Classification, Trees)
 Building:
-  - Flutter apps with Firebase backends
+  - Data analysis projects using Python & Pandas
 Exploring:
-  - REST API integration patterns
-  - CI/CD for Flutter releases
+  - Exploratory Data Analysis (EDA) on real-world datasets
 Open To:
-  - Freelance & full-time Flutter opportunities
+  - Freelance & entry-level Data Science / ML opportunities
 ```
 
 ---
@@ -175,7 +132,7 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:usmanshahidoffice@gmail.com"><img src="https://img.shields.io/badge/Gmail-puckpuck808@gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:usmanshahidoffice@gmail.com"><img src="https://img.shields.io/badge/Gmail-usmanshahidoffice@gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/usman-shahidofficial"><img src="https://img.shields.io/badge/LinkedIn-usman--shahidofficial-8B5CF6?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/UsmanShahid808"><img src="https://img.shields.io/badge/GitHub-UsmanShahid808-4C1D95?style=flat-square&logo=github&logoColor=white" /></a>
 
@@ -185,7 +142,7 @@ Open To:
 
 <div align="center">
 
-*"Good code is written once and read a hundred times. Write it for the reader, not just the compiler."*
+*"A model doesn't understand the world — it approximates the questions you asked of the data."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
